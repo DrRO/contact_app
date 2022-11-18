@@ -1,5 +1,6 @@
-# Todo App
-- Todo app using Flutter with Null-Safty feature
+# Contact App
+- Contact App by Rasha Omran _ Flutter R2- UN Woman.
+## Feature
 - I used Local Database "SQLFLITE"
 - I used bloc to state managment of database , Localization and switch to dark theme
 
